@@ -1,2 +1,3 @@
 # Calculator
-Projeto de calculadora
+Projeto de calculadora feito com HTML,CSS e Javascript
+
